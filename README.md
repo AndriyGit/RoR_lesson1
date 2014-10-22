@@ -1,2 +1,2 @@
-RoR_lesson1
+Lesson #1 Geekhub Home work
 ===========
